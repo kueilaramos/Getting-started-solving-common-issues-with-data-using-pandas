@@ -6,4 +6,4 @@ The data is from [Keith Galli´s Github repository](https://github.com/KeithGall
 The goal was to do the following: rename the variables columns, handling missing values and handling data types.
 
 
-you can find the medium here https://medium.com/p/f16dfeab0d32/edit 
+you can find my medium page about the explanation here https://medium.com/p/f16dfeab0d32/edit 
